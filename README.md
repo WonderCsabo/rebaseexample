@@ -3,5 +3,5 @@ Added in the master branch.
 
 =============
 
-Firs line
+First line
 Second line
